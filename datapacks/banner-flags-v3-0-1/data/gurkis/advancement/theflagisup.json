@@ -1,0 +1,47 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:blue_banner",
+      "components": {
+        "minecraft:banner_patterns": [
+          {
+            "pattern": "minecraft:stripe_downleft",
+            "color": "white"
+          },
+          {
+            "pattern": "minecraft:stripe_downright",
+            "color": "white"
+          },
+          {
+            "pattern": "minecraft:cross",
+            "color": "red"
+          },
+          {
+            "pattern": "minecraft:stripe_middle",
+            "color": "white"
+          },
+          {
+            "pattern": "minecraft:stripe_center",
+            "color": "white"
+          },
+          {
+            "pattern": "minecraft:straight_cross",
+            "color": "red"
+          }
+        ]
+      }
+    },
+    "title": "The Flag Is Up",
+    "description": "§eCrouch place §6a banner on §eany pole block, like §nfences, walls, glass panes, iron bars & more§6 to raise your flag!",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "gurkis:bannerflags",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "sends_telemetry_event": false
+}

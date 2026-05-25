@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:debug_stick"
+    },
+    "title": "Rotate It",
+    "description": "§eHold §6a stick in offhand§e and §6crouch§e next to §6a flag§e to §6§nmake it rotate!",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "gurkis:flipit",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "sends_telemetry_event": false
+}

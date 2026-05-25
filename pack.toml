@@ -1,0 +1,18 @@
+name = "Mustas2"
+author = "hues"
+version = "0.1"
+description = "Mustas Never Die!"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "45653a60015a398f38622118373f2b9c6133c4933ac0baf02bfcaff160442696"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"
+
+[options]
+acceptable-game-versions = []
+datapack-folder = "datapacks"

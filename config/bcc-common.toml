@@ -1,0 +1,13 @@
+#General settings
+[general]
+	#modpackProjectID is now deprecated and will be removed soon
+	# Default: 0
+	# Range: > 0
+	modpackProjectID = 26773
+	#The name of the modpack
+	modpackName = "The Mustas 2"
+	#The version of the modpack
+	modpackVersion = "v0.1"
+	#Use the metadata.json to determine the modpack version
+	#ONLY ENABLE THIS IF YOU KNOW WHAT YOU ARE DOING
+	useMetadata = false

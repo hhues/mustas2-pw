@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:debug_stick"
+    },
+    "title": "Flip It",
+    "description": "§eHold §6a stick§e and §6crouch§e next to §6a flag§e to §6§nmake it flip!",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "gurkis:importantflag",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "sends_telemetry_event": false
+}
