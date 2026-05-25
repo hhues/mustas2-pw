@@ -245,6 +245,10 @@ file = "config/corpse-server.toml"
 hash = "806dc2002f95b1bcd16dec843051abc513576a1986ea1931d8c2cc82aef201c7"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "c164db30a28791909e03550d928ff2910a1adf9e8a1979a6c5744d8be5357614"
+
+[[files]]
 file = "config/create-client-1.toml.bak"
 hash = "e20f6769fd946b918f24cfd54a422a599faa43394ee9a33012e645102a366da3"
 
@@ -1161,6 +1165,10 @@ file = "config/paxi/datapacks/aoc_data_1.21_v4.zip"
 hash = "4ed0910afa74c50b3e5c38ffd40d435071b388d6f13d21c34c5d38ae60020b73"
 
 [[files]]
+file = "config/paxi/datapacks/banner-flags-v3-0-1.zip"
+hash = "8397f51756eb4751834a13140d2daab079738bd820c4c47a5164479aef8c6708"
+
+[[files]]
 file = "config/paxi/datapacks/charcoal_to_coal_1.21.zip"
 hash = "20e0035fb6ee8fa2736352c045084be6d190c39450c7185733e02f9ed02b25dd"
 
@@ -1175,6 +1183,16 @@ hash = "826e0b0338434bf635270f86f3fd385ad92e4374ca0f4f04e5fd3f24b3614bb4"
 [[files]]
 file = "config/paxi/datapacks/thingsandmisc_crushedmagma_disable.zip"
 hash = "dfe4e52403bbdca519b919f064f4b5ab96cc8744cb51f0c60fdaeaa1ec7f2d09"
+
+[[files]]
+file = "config/paxi/datapacks/veinminer-enchantment.pw.toml"
+hash = "b010b097b79bca38375f75d03b38f6f44b701be9ce966ed47356f1d4cca533af"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/veinminer.pw.toml"
+hash = "747d900eaf64ef15b4f3f719c158cafd8976b5f49bc3af8afce9c1d717e3498b"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -2766,6 +2784,11 @@ hash = "03bfdca138de9c56b29b120a3a1693269951d261916a8bc16e48d0c3576e72fe"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "5464fc1b6a935de8a6f9266f57572ecb6e0c0338a63cb2250514d02753df2eba"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -3254,11 +3277,6 @@ hash = "bfc1cd9691da2338df3e5d15d2ce2bac6cf554329163188dbdae97add946c2f8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/gui-retextures.pw.toml"
-hash = "a3dd7cb3db1efb7657920bffb656d620af2e466750563d8fb6395fed4a69cd0e"
-metafile = true
-
-[[files]]
 file = "resourcepacks/handcraftedunofficialzhhktranslation.pw.toml"
 hash = "178998fc05ef6597cd8ca2b43155665be86891c859ece63cb3c5c03ab476e4bd"
 metafile = true
@@ -3266,11 +3284,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/idas-unofficialzhhktranslation.pw.toml"
 hash = "66c7f2394cca19d251e55df69fae8fb7ba12a4366ddd6afa7249aeec1d209f50"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stay-true.pw.toml"
-hash = "e53a1e480f2a8051cc6581a0d7323fb3b31c317562caa12c37eab9e952cc9300"
 metafile = true
 
 [[files]]
