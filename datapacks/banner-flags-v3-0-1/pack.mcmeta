@@ -1,7 +1,0 @@
-{
-    "pack": {
-        "description": "Crouch to place banners as flags! Made by Gurkis",
-            "min_format":[89,0],
-            "max_format":[94,1]
-    }
-}

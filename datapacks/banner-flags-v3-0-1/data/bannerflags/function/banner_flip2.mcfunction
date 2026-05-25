@@ -1,1 +1,0 @@
-advancement revoke @a only bannerflags:bannerflip
