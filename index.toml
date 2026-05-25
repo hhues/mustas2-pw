@@ -1177,8 +1177,9 @@ file = "config/paxi/datapacks/create waystones 1.21.zip"
 hash = "2548666b0932bdbdee0a1b13b4cd662574f15e37a8073d9d304ef0d23efbd8f6"
 
 [[files]]
-file = "config/paxi/datapacks/lithosphere 1.7 15.08.2025.zip"
-hash = "244b697dc5a817ab2ddcfe614d38797c89e9d1aac3cfba7e71bf9e1b9f1feaca"
+file = "config/paxi/datapacks/lithosphere.pw.toml"
+hash = "afe9ed3981e77c5077591c74d8fbaf8f6f323f971dd42a467573c6ed5f5a6621"
+metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/no_dnd_diamond_1.21.zip"
