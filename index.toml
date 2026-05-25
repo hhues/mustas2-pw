@@ -1568,7 +1568,7 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "e7728600de72194d82280d8a9d88c713a095201ff1da8e62b2ef977c21154da2"
+hash = "d9042745b1d9e2f2f09124a7686c50831f31c1bd84673bca7a285d04d210909f"
 
 [[files]]
 file = "datapacks/banner-flags-v3-0-1/data/bannerflags/advancement/bannerflip.json"
@@ -3162,10 +3162,6 @@ file = "resourcepacks/Quark Programmer Art.zip"
 hash = "428f8f4c710bcbe057b19bd3d79fbdc82a36eada9acfe064fd9ab534bf01019b"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r564756_MC1.21.x.zip"
-hash = "170076f211291e0fe690a9c8f9902aa01e3c18f1e1241b5f2d5b830cd733a1f1"
-
-[[files]]
 file = "resourcepacks/all-of-create-core.pw.toml"
 hash = "a35e8271cc55060e41ee47ff99475ebfd52508b408a7deb353e735d44b2b09ba"
 metafile = true
@@ -3294,6 +3290,10 @@ metafile = true
 file = "resourcepacks/tradingpostzhhktranslation.pw.toml"
 hash = "65028c11384c624c0771b7ac39257822a7cd6f3830c524fcbd5723b6f9a27a32"
 metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-tweaks.zip"
+hash = "170076f211291e0fe690a9c8f9902aa01e3c18f1e1241b5f2d5b830cd733a1f1"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.2/ComplementaryLicense.txt"
