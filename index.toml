@@ -134,7 +134,7 @@ hash = "9923b77b07293c6ae5363fde993daa3597423ded51756528d2830c01a5f716ea"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2138bda5e1553fbaf57e09ff0898b0fac867b9cd2cb71e23af9b9af9b2529fd1"
+hash = "e5343db21ade225d9c90ad6f16501b61ab956aed1a14c1d6911956aff535648d"
 
 [[files]]
 file = "config/biomemusic.json"
@@ -1294,7 +1294,7 @@ hash = "c0f805a22438339d68aacf46339f6f9d47cd9737ab0a6e4c8af3b772f7028849"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.legacy"
-hash = "c4ae1ee7d2a9afbf78318e82b849344fc02ffc9b261ce52a6cb75db1aeb5e240"
+hash = "81defa0aae963168ae2d92a4f755309e5fd263025fa8cc7510dd385bcf9aeb41"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
@@ -1767,6 +1767,11 @@ hash = "747d900eaf64ef15b4f3f719c158cafd8976b5f49bc3af8afce9c1d717e3498b"
 metafile = true
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -1852,8 +1857,8 @@ hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
 metafile = true
 
 [[files]]
-file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
-hash = "659cb9b5dd11ba095c87c3dc7d970ee93a3c2e86b8c5695c7c57c3b54a981f38"
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "91c5f289f65efc2e79d2f8592bb5e8fc3784e6b90ebbc0f036c57b4cbbf06c75"
 metafile = true
 
 [[files]]
@@ -2093,7 +2098,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "9bb04e0450d54cdaaf10120438a5a1139c84fbcf51f9beca3ebb90c9c01eec0a"
+hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
 metafile = true
 
 [[files]]
@@ -2107,8 +2112,8 @@ hash = "553741cf86630ed14caba26768da5b1518a38e7bf7e82de1c179b9342227d546"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "21c83a2a79ec084cf15634b178ad86c078e21a08ac1183d4ae2c09200a06e031"
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "c308b557b01b6e6cc25ee8d6a1a7c78bca2b71be3ae645e40d10cf25259fabcd"
 metafile = true
 
 [[files]]
@@ -2273,7 +2278,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-train-parts.pw.toml"
-hash = "785ec3f3b497647bca9d54816c7cac395d230dc3b972ba49e948248e0db5dccc"
+hash = "c6abf0b9e9455e965b3a5a8b0e02e69da749fe39ba3ca35c32bd72fecdfb6e32"
 metafile = true
 
 [[files]]
@@ -2483,7 +2488,7 @@ metafile = true
 
 [[files]]
 file = "mods/gears-n-kinetics.pw.toml"
-hash = "ce35bf5e845d46c98e22131cb8e04e147aafe62d3492da97a1a3090621af0281"
+hash = "ca9a6e860a062bf02cdc222775e8adaa2c0d9a38891464eeb55a12eecef69ce4"
 metafile = true
 
 [[files]]
@@ -2505,6 +2510,10 @@ metafile = true
 file = "mods/hypertubes.pw.toml"
 hash = "317890a10a1ccd7d28cfbcdce16708e133a97c3a49d5f8c86a095e324e044a97"
 metafile = true
+
+[[files]]
+file = "mods/i_architecture-0.1.1b.jar"
+hash = "295edfb0f3dec36bc294debe377425a9ad21f7ce98305ca9f7b03d4b0605a544"
 
 [[files]]
 file = "mods/iceberg.pw.toml"
@@ -2529,11 +2538,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "ec8432e5a8dcdaeb7eed2086c52916c41e6311258ae3f2b0aec022d3892c23b7"
-metafile = true
-
-[[files]]
-file = "mods/industrialized-architecture.pw.toml"
-hash = "be17370c2f959697b1d75cf87036b58bdb01c45de9205c9e7ee8c7f354078ee9"
 metafile = true
 
 [[files]]
@@ -2768,7 +2772,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "dde4d08197acbd026127ab3a7f1de5c1796b54e1cd878a1bee2be9eab4aa77bf"
+hash = "03bfdca138de9c56b29b120a3a1693269951d261916a8bc16e48d0c3576e72fe"
 metafile = true
 
 [[files]]
@@ -2934,11 +2938,6 @@ metafile = true
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "eff7ebd7bc65ef5d3ba8ac731bc3fb2fd9697566f53dcedbfc55d0b4bb55d60d"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "442ea4d2312dd58741a7c1ce1f6ae0514cc528fb0b06e7268807d46b0720d6d9"
 metafile = true
 
 [[files]]
