@@ -1,13 +1,12 @@
 name = "Load My F***ing Tags"
+side = "server"
 filename = "lmft-1.1.1+1.21.9-neoforge.jar"
-side = "both"
 
-[download]
-hash-format = "sha1"
-hash = "492d597ca216f9d099be112e77a9a5c7ed138770"
-mode = "metadata:curseforge"
-
-[update]
 [update.curseforge]
 file-id = 7084444
 project-id = 656346
+
+[download]
+mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "492d597ca216f9d099be112e77a9a5c7ed138770"

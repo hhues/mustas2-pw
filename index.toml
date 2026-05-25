@@ -2411,12 +2411,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "ea67fcbd702909226736e0feb0d64df758e21e724d53a43730537c6bbf34d455"
+hash = "f47eb62b2e17526da2796ec7bf8946f2e3a37eb88307d7a73d482a8e99130961"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "298f2a99e309853181e71938c2358c4b2c7c6c19137dcf6bcefb736d43ab6f65"
+hash = "eaddab79b728308314d35816677bbbff9b1d8d5d35047dbd9378b019b9ee1b9f"
 metafile = true
 
 [[files]]
@@ -2545,7 +2545,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8e67a96432b89ad64ec00b59666f510ead091dea23632a672ac800c77964e9ae"
+hash = "71335e965604be8f270f25e36a340d8422ee808d069bce66b340d5170ad892b2"
 metafile = true
 
 [[files]]
@@ -2580,7 +2580,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
+hash = "78aba4470bb71dd23785466b55a1bf0b14f90dc2d66ddac935b3fc6f600ff0be"
 metafile = true
 
 [[files]]
@@ -2720,12 +2720,12 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "1b78273918bdbfe66d38f35b6ec2fbaa7e862fb9dca67cc99a725df768365e96"
+hash = "7a743df750c3d7accee8b48bad45093801d469f1526ba9623bef87f49919fa47"
 metafile = true
 
 [[files]]
 file = "mods/loot-integrations.pw.toml"
-hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+hash = "6493cbb2a01340cfdf4416273a0e06d0ba93d998754776cf54ece84fa13ec44d"
 metafile = true
 
 [[files]]
@@ -2750,7 +2750,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+hash = "a9e9fda25a28b2fb62b60c385cbdd4ddde4bad8c20524a6b82d494642c3dd74a"
 metafile = true
 
 [[files]]
@@ -2875,12 +2875,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
+hash = "b3739fe0e95f65dd1dd0b0bd5d68e1e705521a3ae289fbdf670d311c42cae1e4"
 metafile = true
 
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
-hash = "63798d5d5dce18e8558415ee791f0928e12ee2bb54ee342f4b81b58f523e3cb2"
+hash = "0348c4d781b31242a61cbae45acc15b3f6006abda4827e1058570ad1cbd8c7fb"
 metafile = true
 
 [[files]]
@@ -2900,7 +2900,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
+hash = "920774c9d10a055786752626745c9a81b45f26236c67269f6a03e2773223b4e8"
 metafile = true
 
 [[files]]
@@ -2965,7 +2965,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "ff6934dbf3203c63dbdab3b2b3a89e82c047ad22db63d8511d737a489aac743c"
+hash = "207bebfb49d839eed5ad9cdd6ee26b6bb78f485b22c06e54f4455b61030526aa"
 metafile = true
 
 [[files]]
@@ -2975,17 +2975,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-leaf-culling.pw.toml"
-hash = "3bb7ffd04e7046fb97971271036de62b95188fbfcd56bc5cfe8907eace655aec"
+hash = "002a53291b2949ec2691b7ad587db72ba55947c67f9420d0588fe4684e4d5149"
 metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "05953528b550760efecc9834796d90177e09bd0d231ce814b43578e386468a73"
+hash = "7d5eac1c68a432a9c0bbf6c7b60a57d3f15d3038d07adf0981a8be278e62e3b3"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "b8b31e06020b7cea02999439f11727d7eca810da5a9296d5b204a03fc17d9d30"
 metafile = true
 
 [[files]]
@@ -3015,7 +3015,7 @@ metafile = true
 
 [[files]]
 file = "mods/still-life.pw.toml"
-hash = "10abaaacef70467dc09b62aa2f28cc2242be181d3cd9f585d1c0383d38eb87b8"
+hash = "c2647ad5e1a952399c21be8c8a7d8c3dcce8cea2440306e01818e0e8fd31c16b"
 metafile = true
 
 [[files]]
