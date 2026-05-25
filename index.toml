@@ -1267,7 +1267,7 @@ hash = "96b6764c28555977f3f2f7091b881de3c3def4560584ac13a1c42b6c692a6755"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "add2da702ba0e3c1bd9e6d84771d0cbf0fd9359490586d2bb2b9dbbefa216b5c"
+hash = "a12a92ae399db1166a8915b5d961c8599a3c918733b59e30c3a77faf275ce3b6"
 
 [[files]]
 file = "config/ritchiesprojectilelib-server.toml"
