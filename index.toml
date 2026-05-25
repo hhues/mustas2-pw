@@ -1142,7 +1142,7 @@ hash = "1c060e845e29386597054765729f34b0933fa3d1ff75cdd686a4e925cfe973d8"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "48111b92b8e6007eee2a925141630de25f93b072d9e6286e5ef43ea9afce8a99"
+hash = "5990a282702b33a11f182dfb60781e9768349919ca526ef8af05b1b0882a918e"
 
 [[files]]
 file = "config/paxi/datapacks/Create Immersive Aircrafts Datapack 1.21.1 - 3.0.zip"
@@ -1185,8 +1185,8 @@ file = "config/paxi/datapacks/no_dnd_diamond_1.21.zip"
 hash = "826e0b0338434bf635270f86f3fd385ad92e4374ca0f4f04e5fd3f24b3614bb4"
 
 [[files]]
-file = "config/paxi/datapacks/still_life 0.2 16.08.2025.zip"
-hash = "1052ae2a130af7d3f9a7b9178024b3b81241e3a0b69e109370f58127f0035695"
+file = "config/paxi/datapacks/still_life 0.1.1 25.07.2025.zip"
+hash = "bf85c370dbcf239d82841271e1c5fe9a6305344eb084cc1ab3f536e05ad3ff81"
 
 [[files]]
 file = "config/paxi/datapacks/thingsandmisc_crushedmagma_disable.zip"
