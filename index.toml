@@ -2804,7 +2804,7 @@ metafile = true
 
 [[files]]
 file = "mods/still-life.pw.toml"
-hash = "bc60bf9e9b337140b33cbd697954cd04732ea536abe6ccf2cdb874ce60d8255b"
+hash = "10abaaacef70467dc09b62aa2f28cc2242be181d3cd9f585d1c0383d38eb87b8"
 metafile = true
 
 [[files]]
