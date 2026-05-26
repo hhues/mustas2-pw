@@ -1,0 +1,13 @@
+name = "Point Blank Official || Blue Archive Pack"
+filename = "bluearchive-ext v0.6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8ce087d2045a02999576715e058757a479370e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7906892
+project-id = 1505801

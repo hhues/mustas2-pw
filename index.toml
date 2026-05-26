@@ -2874,6 +2874,11 @@ hash = "7d7deb14e956b71fe2f9c999acefdb5edbfc264d9c66e5e2fce7c90ee704d05a"
 metafile = true
 
 [[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "cb1221863374d2030b715af185d5744e8e2a804dfef96ba4119651e867299b72"
+metafile = true
+
+[[files]]
 file = "mods/vinurl.pw.toml"
 hash = "1905601083809ad13f41c01aa7a967a6c17b0ac53a725d9664c9c9fbd3361429"
 metafile = true
@@ -2966,6 +2971,16 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
+metafile = true
+
+[[files]]
+file = "point-blank-official-blue-archive-pack.pw.toml"
+hash = "dbcd8eb52601f08bc57a452fbd96644398c2a35dfc8e596c7da5807c144c6c80"
+metafile = true
+
+[[files]]
+file = "point-blank-official-point-blank-extended-edition.pw.toml"
+hash = "d60c5ac95ca6a59bade329a6f5efc8e28f8f0c40d9a286fc35f1728202a7cb6e"
 metafile = true
 
 [[files]]
