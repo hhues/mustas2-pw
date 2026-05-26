@@ -2609,6 +2609,16 @@ hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
+file = "mods/point-blank-official-blue-archive-pack.pw.toml"
+hash = "dbcd8eb52601f08bc57a452fbd96644398c2a35dfc8e596c7da5807c144c6c80"
+metafile = true
+
+[[files]]
+file = "mods/point-blank-official-point-blank-extended-edition.pw.toml"
+hash = "d60c5ac95ca6a59bade329a6f5efc8e28f8f0c40d9a286fc35f1728202a7cb6e"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
@@ -2941,16 +2951,6 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
-metafile = true
-
-[[files]]
-file = "point-blank-official-blue-archive-pack.pw.toml"
-hash = "dbcd8eb52601f08bc57a452fbd96644398c2a35dfc8e596c7da5807c144c6c80"
-metafile = true
-
-[[files]]
-file = "point-blank-official-point-blank-extended-edition.pw.toml"
-hash = "d60c5ac95ca6a59bade329a6f5efc8e28f8f0c40d9a286fc35f1728202a7cb6e"
 metafile = true
 
 [[files]]
