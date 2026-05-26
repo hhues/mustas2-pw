@@ -1,0 +1,13 @@
+name = "Fabled Weaponry"
+filename = "fabledweaponry-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "022338d74eb52ab7497997684de63c12ed03e988"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8005872
+project-id = 930340

@@ -1570,11 +1570,6 @@ file = "configureddefaults/options.txt"
 hash = "917d89becbe9a3f80665ff36c9e173f099e69657ed293cf16d5d95c0285da51f"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
-metafile = true
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -1655,11 +1650,6 @@ hash = "86cd6395d41e52dccd3a428f5c1ee72b000ff202a818a9b34e55d2f9d8d66419"
 metafile = true
 
 [[files]]
-file = "mods/backpacked.pw.toml"
-hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "91c5f289f65efc2e79d2f8592bb5e8fc3784e6b90ebbc0f036c57b4cbbf06c75"
 metafile = true
@@ -1720,13 +1710,13 @@ hash = "c9bddfd011a93a6ab2fc5fd9dea8ce1bf27275a6cf1ff50fe9562fdec9f2962e"
 metafile = true
 
 [[files]]
-file = "mods/boatload.pw.toml"
-hash = "8f8f2531a24dc97c79c1e13f500cb941d147fcc52cac7c58797627c4881ccc88"
+file = "mods/bookshelf.pw.toml"
+hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
+file = "mods/bundle-api.pw.toml"
+hash = "a7e46ae0871bb75452fcd2044a7a320beb08b2a691518111c9e4906a9c6fde39"
 metafile = true
 
 [[files]]
@@ -2170,11 +2160,6 @@ hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "15209ae359f27c7381723c53c96dbe6ebfe696fb779c9c7fcbc5c1faecb3fa5b"
-metafile = true
-
-[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "541520814421d829976fbb2162e7a195b18e9d82ed3b3c8dc9c7fbc50b2cb491"
 metafile = true
@@ -2225,8 +2210,18 @@ hash = "aa073e68b58566ec9741107511a393d578fc455492b26eedd3a15f54730ed988"
 metafile = true
 
 [[files]]
+file = "mods/fabled-weaponry.pw.toml"
+hash = "715fc54df2df7bffd9e1a0b38165ba07ac96494b5743088d8e5ff1c74a326ec3"
+metafile = true
+
+[[files]]
 file = "mods/fadeless.pw.toml"
 hash = "6f5828b1dc08ba199fa350e06dddf8d9d8e1f2edd35501ca423d385a67a07fc7"
+metafile = true
+
+[[files]]
+file = "mods/fantasy-armor.pw.toml"
+hash = "55aea510e38e154c163a731a3a7ded420fffc2ce0b7ede98915b582a48e48a18"
 metafile = true
 
 [[files]]
@@ -2246,7 +2241,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgematica.pw.toml"
-hash = "a8bdefffee0ac7aab23ffd3ffdc2e7ce8a36048828dffdb3ae1911c82d84a1b0"
+hash = "d8f5c25b52cf4cbc6ff8869af43ef27c46a65ebab7fc40d767c847176ff1cf36"
 metafile = true
 
 [[files]]
@@ -2302,11 +2297,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
-metafile = true
-
-[[files]]
-file = "mods/handcrafted.pw.toml"
-hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
 metafile = true
 
 [[files]]
@@ -2371,11 +2361,6 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "a53db3cbfcc59ff30269743315bdaa929271bb7cd31674285a364e8162e44a7f"
-metafile = true
-
-[[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "aeb82b93a8948a84d4aff642bda7e969ad7d0d3182bff327973035ef11ad5a94"
 metafile = true
 
 [[files]]
@@ -2569,11 +2554,6 @@ hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "03bfdca138de9c56b29b120a3a1693269951d261916a8bc16e48d0c3576e72fe"
-metafile = true
-
-[[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
 metafile = true
@@ -2599,11 +2579,6 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
-file = "mods/paladins-and-priests.pw.toml"
-hash = "f748c8af63f2b877081d4df46fd2b5218ed3de64dc7fe44d94c835fd5946b843"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
@@ -2611,11 +2586,6 @@ metafile = true
 [[files]]
 file = "mods/paxi-neoforge.pw.toml"
 hash = "3581c37e3c9c7cdd1150bb7ad7e47e3e8107914a5cd9113ddfa74ff2f8b8e09a"
-metafile = true
-
-[[files]]
-file = "mods/personality.pw.toml"
-hash = "d8fb5ce59b1ab11bb782466e5937cdba0a95eb14a68c3d6704103a73bcbaaefc"
 metafile = true
 
 [[files]]
@@ -2814,11 +2784,6 @@ hash = "2c6eb75d262805c3a7e4d7ccb0a964c67511206fbdd1711504f41d538c62c237"
 metafile = true
 
 [[files]]
-file = "mods/spellbound-weapons.pw.toml"
-hash = "8d193a809d03364117c4c92459f98bf729a88051a71477ade7d1530f23432cb6"
-metafile = true
-
-[[files]]
 file = "mods/still-life.pw.toml"
 hash = "10abaaacef70467dc09b62aa2f28cc2242be181d3cd9f585d1c0383d38eb87b8"
 metafile = true
@@ -2864,8 +2829,8 @@ hash = "3f4ccf8820921a043753e0023173cc7eb225e19fef2ceaeeb0ebd8b2fb7a0c5d"
 metafile = true
 
 [[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "51792be52a28307d13f582e7791add6d5974a9fc18ad2679f715c3ab10a9bc8b"
+file = "mods/travelers-backpack.pw.toml"
+hash = "ffaea505f04f3b7120d77eea5dd8a12b7e6a30c8976a6103e07b89a1f50f0f19"
 metafile = true
 
 [[files]]
@@ -2884,23 +2849,8 @@ hash = "1905601083809ad13f41c01aa7a967a6c17b0ac53a725d9664c9c9fbd3361429"
 metafile = true
 
 [[files]]
-file = "mods/vista_tv.pw.toml"
-hash = "c6bda706732a64892f8e0bffc746fafefc12cb63ba6c6ada066d183f01fa55c0"
-metafile = true
-
-[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "f28ceb27bc3ed0a9825de1f853d177b69495deab9128aa05694616e4504ddb52"
-metafile = true
-
-[[files]]
-file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "4faf890cddc7addc968e262b4bc55ca47f59e482fa5c23e780def45d099f84e4"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
 metafile = true
 
 [[files]]
@@ -2926,11 +2876,6 @@ metafile = true
 [[files]]
 file = "mods/wizards.pw.toml"
 hash = "4fe6cc0f09a168ed71d96a30f67570ce76e0c3fa668adde71bd216cfd2b0541f"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "05e353d7f33a21a9cda43b2985ecfa595dd533a63eafc0530534ebee0c0c4bc8"
 metafile = true
 
 [[files]]
