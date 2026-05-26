@@ -1,0 +1,13 @@
+name = "Guns ++"
+filename = "guns1-21-(0,1)v10.3-dp.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kdch0Jxf/versions/lV1b0NoM/guns1-21-%280%2C1%29v10.3-dp.zip"
+hash-format = "sha512"
+hash = "852aa8fb7e5823b37e5c27d3ef263853c07d923393f75c082cbbcf9f20b9833127b65e4e0c5e6b8ae24713760dba7fb85f50862d90830a27a5c50a2bb278433f"
+
+[update]
+[update.modrinth]
+mod-id = "kdch0Jxf"
+version = "lV1b0NoM"

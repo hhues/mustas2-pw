@@ -1177,6 +1177,11 @@ file = "config/paxi/datapacks/create waystones 1.21.zip"
 hash = "2548666b0932bdbdee0a1b13b4cd662574f15e37a8073d9d304ef0d23efbd8f6"
 
 [[files]]
+file = "config/paxi/datapacks/guns++.pw.toml"
+hash = "2451032a6f97332795c739e074df4a9a242907f2e402ce66d8f4dd0d4185f8fc"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/lithosphere.pw.toml"
 hash = "afe9ed3981e77c5077591c74d8fbaf8f6f323f971dd42a467573c6ed5f5a6621"
 metafile = true
@@ -2791,6 +2796,11 @@ metafile = true
 [[files]]
 file = "mods/sooty-chimneys.pw.toml"
 hash = "924b292f54a9a8c7196773b03e1f503a0eb70af4c0aa06a02bfb6c8f4617c660"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
