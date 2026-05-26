@@ -1,0 +1,13 @@
+name = "BiliBiliMedia"
+filename = "bilibili_media-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vqvS4GPe/versions/kRVokcp8/bilibili_media-1.1.jar"
+hash-format = "sha512"
+hash = "2640b85592807b97aeb375c8e28c0e58c57d4ebd427f7a908abcfc06149d43b97f0884211ad8415911d5519e9c593fa02fa735ba18d4ffc09e10e352da12195b"
+
+[update]
+[update.modrinth]
+mod-id = "vqvS4GPe"
+version = "kRVokcp8"

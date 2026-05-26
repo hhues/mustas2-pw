@@ -1700,6 +1700,11 @@ hash = "67709efcf4c6094c8a7b3941c5b036f89d148decccd0fb779fed121d8e2cbcf8"
 metafile = true
 
 [[files]]
+file = "mods/bilibilimedia.pw.toml"
+hash = "b4af79016f04a96c47673a99c18058ef2281fc08638af225a69de9d45dd1b8ae"
+metafile = true
+
+[[files]]
 file = "mods/biome-music.pw.toml"
 hash = "d7d497a6c1f81a4f6660f5e17cba8a8a31313479c0b08e964d19e8f71729ad37"
 metafile = true
@@ -2875,7 +2880,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "df9f59fa60302177346251705c9361d522dd0accfcb784918a07489c3cc149d3"
+hash = "4faf890cddc7addc968e262b4bc55ca47f59e482fa5c23e780def45d099f84e4"
 metafile = true
 
 [[files]]
