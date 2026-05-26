@@ -1177,11 +1177,6 @@ file = "config/paxi/datapacks/create waystones 1.21.zip"
 hash = "2548666b0932bdbdee0a1b13b4cd662574f15e37a8073d9d304ef0d23efbd8f6"
 
 [[files]]
-file = "config/paxi/datapacks/guns++.pw.toml"
-hash = "2451032a6f97332795c739e074df4a9a242907f2e402ce66d8f4dd0d4185f8fc"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/lithosphere.pw.toml"
 hash = "afe9ed3981e77c5077591c74d8fbaf8f6f323f971dd42a467573c6ed5f5a6621"
 metafile = true
@@ -1572,7 +1567,7 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "5afff82f04a118e0f4689bb4b26686e6ad833380bed27b13b2432266ca4c1515"
+hash = "917d89becbe9a3f80665ff36c9e173f099e69657ed293cf16d5d95c0285da51f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -2307,11 +2302,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
-metafile = true
-
-[[files]]
-file = "mods/guns++.pw.toml"
-hash = "64f0413893ed60422d9b6c6fb08e7112bf4974863a0670cf884aa9930a212f93"
 metafile = true
 
 [[files]]
