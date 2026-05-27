@@ -1,8 +1,8 @@
 name = "Voxy Server"
+side = "server"
 filename = "voxy-server.jar"
-side = "both"
 
 [download]
-url = "https://dl.dropboxusercontent.com/scl/fi/a22twy36slgp5wlzpazow/voxy-server.jar?rlkey=xzctk23wb7eaddq3rxs6kelv8&st=7gadse28&dl=0"
 hash-format = "sha256"
+url = "https://dl.dropboxusercontent.com/scl/fi/a22twy36slgp5wlzpazow/voxy-server.jar?rlkey=xzctk23wb7eaddq3rxs6kelv8&st=7gadse28&dl=0"
 hash = "e3feeba4935ef8acf3b5afb22293bcbfad3b079fe99c2a18753112e6a3775cc1"
