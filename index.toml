@@ -2859,12 +2859,12 @@ metafile = true
 
 [[files]]
 file = "mods/voxy-server.pw.toml"
-hash = "ecc2e498f32c2acf9ad581dbc8a1cafa3492512d19d7f9e2c38d774c39d91eaf"
+hash = "93d96839432652062a19074bd2d5d648fbbc91fc294b90f390e84b92cbac4b83"
 metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "19cfd291f8b4059cb0a1a95a3656bafff4b765756db54280d119acf3a2fb5fba"
+hash = "3e1eee03224a531f921d5c1f393e9f79aa8579f2081d2b88e6a033d7c0741bba"
 metafile = true
 
 [[files]]
