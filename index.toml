@@ -1177,9 +1177,8 @@ file = "config/paxi/datapacks/create waystones 1.21.zip"
 hash = "2548666b0932bdbdee0a1b13b4cd662574f15e37a8073d9d304ef0d23efbd8f6"
 
 [[files]]
-file = "config/paxi/datapacks/lithosphere.pw.toml"
-hash = "afe9ed3981e77c5077591c74d8fbaf8f6f323f971dd42a467573c6ed5f5a6621"
-metafile = true
+file = "config/paxi/datapacks/lithosphere 1.7 15.08.2025.zip"
+hash = "0f7c149d02a69886bbe9c5944c66e9c44e9486b615225aad0d02126aa92d2485"
 
 [[files]]
 file = "config/paxi/datapacks/no_dnd_diamond_1.21.zip"
@@ -1187,7 +1186,7 @@ hash = "826e0b0338434bf635270f86f3fd385ad92e4374ca0f4f04e5fd3f24b3614bb4"
 
 [[files]]
 file = "config/paxi/datapacks/still_life 0.1.1 25.07.2025.zip"
-hash = "bf85c370dbcf239d82841271e1c5fe9a6305344eb084cc1ab3f536e05ad3ff81"
+hash = "554fea29f85df8c29d3baf62e4c0108339876ccd0cc2ee175adf035f6b1b4a3e"
 
 [[files]]
 file = "config/paxi/datapacks/thingsandmisc_crushedmagma_disable.zip"
@@ -2484,11 +2483,6 @@ hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
 
 [[files]]
-file = "mods/lithosphere.pw.toml"
-hash = "337093b94742d334ad349d4fbfe1b74a9b885784ac6d43432896b3dc527260a9"
-metafile = true
-
-[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "c4f815a21d72a50e59af2644e94246111042c4f820f9b9f7557120fbe3a4121f"
 metafile = true
@@ -2799,11 +2793,6 @@ hash = "2c6eb75d262805c3a7e4d7ccb0a964c67511206fbdd1711504f41d538c62c237"
 metafile = true
 
 [[files]]
-file = "mods/still-life.pw.toml"
-hash = "10abaaacef70467dc09b62aa2f28cc2242be181d3cd9f585d1c0383d38eb87b8"
-metafile = true
-
-[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "dcbf8b45454dc87262ef3660d21e7fb73f035e3a65aa8fb6c1c711c63cec335d"
 metafile = true
@@ -2866,6 +2855,16 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "f28ceb27bc3ed0a9825de1f853d177b69495deab9128aa05694616e4504ddb52"
+metafile = true
+
+[[files]]
+file = "mods/voxy-server.pw.toml"
+hash = "f3d1c8bd46e3ea6a8aca949fbe9e86834e66c84566c3a9731128cda243f7431f"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "69242ae969e0ea1de755045d34581c32cddc33210d734d59fe0cbc1dbcb1e7b1"
 metafile = true
 
 [[files]]

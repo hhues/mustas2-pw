@@ -1,0 +1,8 @@
+name = "Voxy"
+side = "client"
+filename = "voxy.jar"
+
+[download]
+hash-format = "sha256"
+url = "https://www.dropbox.com/scl/fi/oqdjrkf8ocrij89zvn1si/voxy.jar?rlkey=fkizmqd5kqcdune41iqzs7j1x&st=4iwb2jz4&dl=0"
+hash = "4d54d06839fa24fd14109edb40bc7678dc1fcedb0715da7b7450aa71fc6cefc3"
