@@ -2708,11 +2708,6 @@ hash = "08f35f067c7a764a894254a8e5c790a8de5e03f21fcff2875a14a31f16b6627a"
 metafile = true
 
 [[files]]
-file = "mods/simple-clouds.pw.toml"
-hash = "e312f9b01407aadff6d7a3b52d68e9d38f048e376cc6ceeb4789eaa6b1ad94cb"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "524bed14286924123a9cde083b6960ac4a05ebd6aa6c8a0fa8b260f8f4f0c948"
 metafile = true
