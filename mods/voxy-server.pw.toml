@@ -1,5 +1,5 @@
 name = "Voxy Server"
-side = "server"
+side = "both"
 filename = "voxy-server.jar"
 
 [download]

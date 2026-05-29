@@ -2708,6 +2708,11 @@ hash = "08f35f067c7a764a894254a8e5c790a8de5e03f21fcff2875a14a31f16b6627a"
 metafile = true
 
 [[files]]
+file = "mods/simple-clouds.pw.toml"
+hash = "e312f9b01407aadff6d7a3b52d68e9d38f048e376cc6ceeb4789eaa6b1ad94cb"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "524bed14286924123a9cde083b6960ac4a05ebd6aa6c8a0fa8b260f8f4f0c948"
 metafile = true
@@ -2864,7 +2869,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy-server.pw.toml"
-hash = "ae1fd3321b1fb7dfcca15e3acaed83f38062a34e3b806195492d2f4a4568f103"
+hash = "0114455a568e6f653ef8504cb9c373fe93150886b1fa9b7fd1b2a16f32bc5279"
 metafile = true
 
 [[files]]
