@@ -1314,7 +1314,7 @@ hash = "81defa0aae963168ae2d92a4f755309e5fd263025fa8cc7510dd385bcf9aeb41"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "1d412f1f5280222e215e6c80a11c03a35627a06efd832f94134cf18b87427a0d"
+hash = "ce7c37caaf1a3aa77fd7be65b51954d26b4e9c2bbb5ad23ff44053cb60c9e28b"
 
 [[files]]
 file = "config/simulated-client.toml"
