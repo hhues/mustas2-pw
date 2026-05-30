@@ -1659,6 +1659,11 @@ hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "4db5860026e59a5179afe8caa24d09787b807091e53a46e5e6c0437e67c5c43e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
@@ -1806,6 +1811,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
+metafile = true
+
+[[files]]
+file = "mods/corpse-x-curios-api-compat.pw.toml"
+hash = "2f6a345c8124dd87b60c8ebbbaa35d9efa27c2d1947357b3247ab98fae9db210"
 metafile = true
 
 [[files]]
