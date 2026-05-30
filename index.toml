@@ -2708,11 +2708,6 @@ hash = "ba0fbc01b797b664021580151aa626f3816bdf4420136cc424761df4d05c9d55"
 metafile = true
 
 [[files]]
-file = "mods/serversleep.pw.toml"
-hash = "5c5192448bfc8094d1a9a2038b29d9dc6e9e668ff74924c2ea378bc489644f94"
-metafile = true
-
-[[files]]
 file = "mods/shield-api.pw.toml"
 hash = "08f35f067c7a764a894254a8e5c790a8de5e03f21fcff2875a14a31f16b6627a"
 metafile = true
