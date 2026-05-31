@@ -1574,11 +1574,6 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
-file = "mods/aeronautics-claims.pw.toml"
-hash = "95c4d503a5bec3da68fe3d0641417c976e901029d0bd68e3cd1ef27af88acf59"
-metafile = true
-
-[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "7e03652d2003566873ab5103454f7c537471d6c2fea1c2f614507b33ef4434f7"
 metafile = true
